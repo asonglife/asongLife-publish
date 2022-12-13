@@ -1,6 +1,6 @@
 {
   "name": "asonglife-publish",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.0",
   "description": "how to publish a npm package",
   "main": "index.js",
   "scripts": {
